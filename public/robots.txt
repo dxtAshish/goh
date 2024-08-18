@@ -1,0 +1,20 @@
+User-agent: *
+
+Allow: /*.js
+Allow: /*.css
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+Allow : /asets/
+
+Allow: /database
+Allow: /scripts
+Allow:/https://www.gohworld.com/sitemap.xml
+Allow:/https://www.gohworld.com/contact
+Allow:/https://www.gohworld.com/category
+Disallow:

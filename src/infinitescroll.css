@@ -1,0 +1,12 @@
+/* .infinite-scroll{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 20px;
+}    
+    grid grid-cols-2 md:grid-cols-4 gap-5 mt-2.5
+    @media (max-width: 477px) {
+
+        .infinite-scroll{
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+    } */

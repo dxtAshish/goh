@@ -1,0 +1,17 @@
+.searchbar{
+    display: block;
+}
+
+#searchinput{
+    border: 1px solid slategrey ;
+    border-radius: 10px;
+    color: black; 
+    width: 20rem;
+    height: 2.5rem;
+}
+
+@media (max-width:477px) {
+    .searchbar{
+        display: none;
+    }    
+}
